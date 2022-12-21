@@ -1,4 +1,4 @@
-#Kalori Takip Programı
+# WomFit Kalori Takip Programı
 * Projemiz kadınlara hitap eden bir kalori takip programıdır.
 * Kullanıcı üye olur, vücut analizi yapar, hedeflerini belirler.
 * Bu hedefler doğrultusunda günlük alması gereken kalori hesaplanır. 
