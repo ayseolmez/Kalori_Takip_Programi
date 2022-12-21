@@ -6,3 +6,5 @@
 * Kullanıcı yaptığı egzersiz bilgisini girer ve yaktığı kalori miktarını hesaplar.
 * Kullanıcı tükettiği su takibini yapabilir.
 * Programdan fit tariflere, sağlıklı yaşam konulu makalelere ulaşabilir.
+
+<b>Kullanılan Teknolojiler: </b> C#, SQL, Code First, Git, Entity Framework, Windows Forms App
